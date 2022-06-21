@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  cryptoTracker
+//
+//  Created by Tomasz Krauzy on 21/06/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+
+API_KEY = C5834FD2-A89A-4401-BB96-B70C9FEC1CA1
