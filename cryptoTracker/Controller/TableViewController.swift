@@ -47,10 +47,6 @@ class TableViewController: UITableViewController {
         if let vc = storyboard?.instantiateViewController(withIdentifier: "szczegol") as? ViewController {
             vc.pairOfCrypto = cryproPairs[indexPath.row]
             
-           
-            
-            
-            // Teraz prezentuje ten controller za pomocą navigationControllera
             navigationController?.pushViewController(vc, animated: true)
         }
     }

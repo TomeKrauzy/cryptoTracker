@@ -43,7 +43,7 @@ extension ViewController: ProcessManagerDelegate{
     
     
     func errorOccured(error: Error) {
-        self.rateOfExchangeLabel.text = error.localizedDescription
+        print(error)
     }
 }
 

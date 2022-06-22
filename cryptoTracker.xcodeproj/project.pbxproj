@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1147DB722861FB23008E062E /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
+		111D4B622863302300064858 /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 		118D8DA427E353A0008C9A16 /* ProcessManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessManager.swift; sourceTree = "<group>"; };
 		118EC00227DA245300A18B52 /* cryptoTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cryptoTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		118EC00527DA245300A18B52 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -90,7 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				118EC00527DA245300A18B52 /* AppDelegate.swift */,
-				1147DB722861FB23008E062E /* Config.xcconfig */,
+				111D4B622863302300064858 /* Config.xcconfig */,
 				118EC00727DA245300A18B52 /* SceneDelegate.swift */,
 				118D8DA327E352BF008C9A16 /* Controller */,
 				118D8D9F27E3524B008C9A16 /* Model */,
@@ -205,7 +205,6 @@
 /* Begin XCBuildConfiguration section */
 		118EC01427DA245800A18B52 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1147DB722861FB23008E062E /* Config.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
